@@ -1,0 +1,9 @@
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\obj\Debug\clientMQtt.csprojAssemblyReference.cache
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\bin\Debug\clientMQtt.exe.config
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\bin\Debug\clientMQtt.exe
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\bin\Debug\clientMQtt.pdb
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\bin\Debug\M2Mqtt.Net.dll
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\obj\Debug\clientMQtt.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\obj\Debug\clientMQtt.exe
+C:\Users\alexs\OneDrive\Documents\2 protocolli interconnessione\MQTT\clientMQtt\clientMQtt\obj\Debug\clientMQtt.pdb
